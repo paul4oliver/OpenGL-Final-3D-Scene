@@ -346,8 +346,8 @@ bool UInitialize(int argc, char* argv[], GLFWwindow** window)
     glfwSetFramebufferSizeCallback(*window, UResizeWindow);
     glfwSetCursorPosCallback(*window, UMousePositionCallback);
     glfwSetScrollCallback(*window, UMouseScrollCallback);
-   glfwSetInputMode(*window, GLFW_CURSOR, GLFW_CURSOR_NORMAL); // Capture mouse - Normal cursor enabled (testing)
-    // glfwSetInputMode(*window, GLFW_CURSOR, GLFW_CURSOR_DISABLED); // Disable cursor (testing)
+   //glfwSetInputMode(*window, GLFW_CURSOR, GLFW_CURSOR_NORMAL); // Capture mouse - Normal cursor disabled (testing)
+    glfwSetInputMode(*window, GLFW_CURSOR, GLFW_CURSOR_DISABLED); // Enabled  - cursor disabled
 
     // Initialize GLEW
     glewExperimental = GL_TRUE;
