@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(258,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(270,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(398,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(399,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(403,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(404,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(406,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(407,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(415,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(458,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(625,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(663,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(678,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(699,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(718,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(737,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(756,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(775,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(794,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(813,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(832,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olive\OneDrive\Desktop\New folder (3)\Mod7Final\Source.cpp(851,23): warning C4018: '<': signed/unsigned mismatch
+  Mod7Final.vcxproj -> C:\Users\olive\OneDrive\Desktop\New folder (3)\Debug\Mod7Final.exe
