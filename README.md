@@ -1,6 +1,6 @@
 # OpenGL-Final-3D-Scene
 
-                                                                                 Reflection
+                                             Reflection
           I approach designing software with a creative mindset that seeks to simplify the solution. 
       Finding a solution is not the end of my software design process, but rather a step. I believe 
       in fine tuning a solution to be a better solutions. My work on this project helped me craft new 
